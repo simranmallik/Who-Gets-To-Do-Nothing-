@@ -8,9 +8,8 @@ Prediction and clustering analysis of leisure time inequality in the U.S. using 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/simranmallik/who-gets-to-do-nothing)
 
 > **[👉 Try the live dashboard here](https://huggingface.co/spaces/simranmallik/who-gets-to-do-nothing)**
-> ![Dashboard Preview](cluster_analysis.png)
-> ![Dashboard Preview](leisure_predictor.png)
-> 
+> <img src="cluster_analysis.png" width="800"/>
+> <img src="leisure_predictor.png" width="800"/>
 ---
 
 ## Overview
