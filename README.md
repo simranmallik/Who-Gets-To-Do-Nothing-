@@ -20,13 +20,13 @@ An interactive data visualization dashboard exploring how demographic and socioe
 
 ## Key Findings
 
-- **Employment status** is the strongest predictor of leisure time — individuals not in the labor force have over 2 additional hours of leisure per day compared to employed individuals
+- **Employment status** is the strongest predictor of leisure time. Individuals not in the labor force have over 2 additional hours of leisure per day compared to employed individuals
 - A significant **gender gap** exists, with women having ~60 fewer minutes of leisure per day than comparable men
 - Each additional **child reduces leisure by ~17 minutes** per day
 - Three distinct daily schedule archetypes exist in the U.S. population:
-  - **Busy Workers** — high work time, low leisure (~126 min/day)
-  - **Overextended Individuals** — high household/caregiving demands (~210 min/day)
-  - **Time-Rich Individuals** — low work time, high leisure (~541 min/day)
+  - **Busy Workers**: high work time, low leisure (~126 min/day)
+  - **Overextended Individuals**: high household/caregiving demands (~210 min/day)
+  - **Time-Rich Individuals**: low work time, high leisure (~541 min/day)
 
 ---
 
@@ -40,7 +40,7 @@ An interactive data visualization dashboard exploring how demographic and socioe
 **Leisure Predictor Tab**
 - Build a custom demographic profile and get a predicted daily leisure time
 - Compare your profile against a fixed OLS baseline using sampling distributions
-- Grounded in the Central Limit Theorem — shows both predicted value and uncertainty
+- Grounded in the Central Limit Theorem, shows both predicted value and uncertainty
 
 ---
 
