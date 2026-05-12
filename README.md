@@ -23,9 +23,9 @@ An interactive data visualization dashboard exploring how demographic and socioe
 - A significant **gender gap** exists, with women having ~60 fewer minutes of leisure per day than comparable men
 - Each additional **child reduces leisure by ~17 minutes** per day
 - Three distinct daily schedule archetypes exist in the U.S. population:
-  - 🔴 **Busy Workers** — high work time, low leisure (~126 min/day)
-  - 🔵 **Overextended Individuals** — high household/caregiving demands (~210 min/day)
-  - 🟢 **Time-Rich Individuals** — low work time, high leisure (~541 min/day)
+  - **Busy Workers** — high work time, low leisure (~126 min/day)
+  - **Overextended Individuals** — high household/caregiving demands (~210 min/day)
+  - **Time-Rich Individuals** — low work time, high leisure (~541 min/day)
 
 ---
 
